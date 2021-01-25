@@ -1,7 +1,5 @@
 # SIMPLE FACENET
 
-Tensorflow is available for Python 3.5 - 3.8
-
 (Fork and edit from repo: https://github.com/davidsandberg/facenet)
 
 ### 1. Colect data:
@@ -41,6 +39,8 @@ your_face/
 ```
 
 ### 2. Install requirements:
+Tensorflow is available for Python 3.5 - 3.8
+
 Install requirements ```pip install -r requirements.txt```
 
 ### 3. Download pretrain model:
