@@ -1,6 +1,7 @@
 # SIMPLE FACENET
 
 Tensorflow is available for Python 3.5 - 3.8
+
 (Fork and edit from repo: https://github.com/davidsandberg/facenet)
 
 ### 1. Colect data:
